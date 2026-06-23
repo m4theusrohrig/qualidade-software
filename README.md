@@ -1,13 +1,8 @@
 # Projeto — Qualidade de Software
 
-> Repositório de atividades desenvolvidas na disciplina de Qualidade de Software,
-> por meio da metodologia PBL (Problem-Based Learning).
-
----
-
 ## 👥 Integrantes
 
-| Matheus Röhrig Corrêa | Matrícula |
+| Matheus Röhrig Corrêa | 071900826 |
 
 ---
 
@@ -25,17 +20,9 @@ plataforma de descoberta de restaurantes independentes.
 projeto-qualidade-software/
 │
 ├── README.md
-├── docs/
-│   ├── atividade-01/   
-                             → PBL 1: Atributos de qualidade ISO 25010
-│   ├── atividade-02/        → (a definir)
-│   ├── atividade-03/        → (a definir)
-│   └── entregas-finais/     → Consolidação das entregas
+├── docs/                    → Atividades realizadas
 │
-├── artefatos/
-│   ├── diagramas/           → Diagramas e modelos visuais
-│   ├── relatorios/          → Relatórios técnicos
-│   └── evidencias/          → Capturas de tela, registros de testes
+├── artefatos/               → Diagramas, Relatórios e registros
 │
 ├── src/                     → Código-fonte (quando aplicável)
 │
@@ -46,12 +33,16 @@ projeto-qualidade-software/
 
 ## 📦 Entregas
 
-| Atividade | Descrição | Status |
-|---|---|---|
-| PBL 1 | Diagnóstico de qualidade — Atributos ISO/IEC 25010 | ✅ Entregue |
-| PBL 2 | (a definir) | ⏳ Pendente |
-| PBL 3 | (a definir) | ⏳ Pendente |
-| Entrega Final | Consolidação do projeto Local Eats | ⏳ Pendente |
+### Atividade 01
+
+| Atividade     | Descrição                         | Status      |
+| ------------- | --------------------------------- | ----------  |
+| PBL 1         | Diagnóstico Inicial da Qualidade  | ✅ Entregue |
+| PBL 2         | Diagnóstico Organizacional de QA  | ⏳ Pendente |
+| PBL 3         | Estratégia Inicial de Testes      | ⏳ Pendente |
+| PBL 4         | Testes Funcionais vs Estruturais  | ⏳ Pendente |
+| PBL 5         | Planejamento e Execução de Testes | ⏳ Pendente |
+
 
 ---
 
@@ -75,9 +66,7 @@ e corrigir seus problemas com base na norma **ISO/IEC 25000**.
 
 ---
 
-> ⚠️ **Importante:** Este repositório é utilizado como instrumento de avaliação
-> das competências desenvolvidas ao longo da disciplina.
->
-> **Instituição:** Centro Universitário Senac-RS
-> **Curso:** ADS / SPI — Unidade Curricular: Qualidade de Software
-> **Prof.:** Luciano Zanuz
+**Instituição:** Centro Universitário Senac-RS
+**Curso:** Análise e Desenvolvimento de Sistemas 
+**Unidade Curricular:** Qualidade de Software
+**Prof.:** Luciano Zanuz
