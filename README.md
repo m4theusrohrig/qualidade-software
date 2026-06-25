@@ -36,12 +36,12 @@ projeto-qualidade-software/
 ### Atividade 01
 
 | Atividade     | Descrição                         | Status      |
-| ------------- | --------------------------------- | ----------  |
+| ------------- | --------------------------------- | ------------|
 | PBL 1         | Diagnóstico Inicial da Qualidade  | ✅ Entregue |
-| PBL 2         | Diagnóstico Organizacional de QA  | ⏳ Pendente |
-| PBL 3         | Estratégia Inicial de Testes      | ⏳ Pendente |
-| PBL 4         | Testes Funcionais vs Estruturais  | ⏳ Pendente |
-| PBL 5         | Planejamento e Execução de Testes | ⏳ Pendente |
+| PBL 2         | Diagnóstico Organizacional de QA  | ✅ Entregue |
+| PBL 3         | Estratégia Inicial de Testes      | ✅ Entregue |
+| PBL 4         | Testes Funcionais vs Estruturais  | ✅ Entregue |
+| PBL 5         | Planejamento e Execução de Testes | ✅ Entregue |
 
 
 ---
