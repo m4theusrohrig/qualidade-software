@@ -43,6 +43,14 @@ projeto-qualidade-software/
 | PBL 4         | Testes Funcionais vs Estruturais  | ✅ Entregue |
 | PBL 5         | Planejamento e Execução de Testes | ✅ Entregue |
 
+### Atividade 02
+
+| Atividade     | Descrição                                      | Status      |
+| ------------- | ---------------------------------------------- | ------------|
+| PBL 6         | Testes Unitários Automatizados e TDD           | ✅ Entregue |
+| PBL 7         | Testes Funcionais Automatizados                | ⏳ Pendente |
+| PBL 8         | BDD e automação orientada a comportamento      | ⏳ Pendente |
+
 
 ---
 
