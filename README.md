@@ -49,7 +49,7 @@ projeto-qualidade-software/
 | ------------- | ---------------------------------------------- | ------------|
 | PBL 6         | Testes Unitários Automatizados e TDD           | ✅ Entregue |
 | PBL 7         | Testes Funcionais Automatizados                | ✅ Entregue |
-| PBL 8         | BDD e automação orientada a comportamento      | ⏳ Pendente |
+| PBL 8         | BDD e automação orientada a comportamento      | ✅ Entregue |
 
 
 ---
