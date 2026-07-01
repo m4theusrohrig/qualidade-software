@@ -31,7 +31,7 @@ playwright codegen https://local-eats-unisenac.vercel.app/
 
 ### 🔗 Link para o código gerado
 
-👉 https://github.com/seu-repositorio/tests/codegen_login.py
+👉 https://github.com/m4theusrohrig/qualidade-software/blob/main/tests/codegen_login.py
 
 ### 🧠 Observações
 
@@ -70,11 +70,12 @@ def test_deve_realizar_login_com_sucesso(page):
 
 ### 🔗 Link para Page Object
 
-👉 https://github.com/seu-repositorio/pages/login_page.py  
+👉 https://github.com/m4theusrohrig/qualidade-software/blob/main/pages/login_page.py  
+👉 https://github.com/m4theusrohrig/qualidade-software/blob/main/pages/home_page.py
 
 ### 🔗 Link para teste refatorado
 
-👉 https://github.com/seu-repositorio/tests/test_login.py
+👉 https://github.com/m4theusrohrig/qualidade-software/blob/main/tests/test_login.py
 
 ### 🧠 Melhorias realizadas
 
