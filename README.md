@@ -56,9 +56,9 @@ projeto-qualidade-software/
 | Atividade      | Descrição                                      | Status      |
 | -------------- | ---------------------------------------------- | ------------|
 | PBL 9          | Testes Unitários Automatizados e TDD           | ✅ Entregue |
-| PBL 10         | Testes Funcionais Automatizados                | ⏳ Pendente |
-| PBL 11         | BDD e automação orientada a comportamento      | ⏳ Pendente |
-| PBL 12         | BDD e automação orientada a comportamento      | ⏳ Pendente |
+| PBL 10         | Testes Funcionais Automatizados                | ✅ Entregue |
+| PBL 11         | BDD e automação orientada a comportamento      | ✅ Entregue |
+| PBL 12         | BDD e automação orientada a comportamento      | ✅ Entregue |
 
 
 
