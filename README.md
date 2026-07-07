@@ -53,12 +53,12 @@ projeto-qualidade-software/
 
 ### Atividade 03
 
-| Atividade      | Descrição                                      | Status      |
-| -------------- | ---------------------------------------------- | ------------|
-| PBL 9          | Testes Unitários Automatizados e TDD           | ✅ Entregue |
-| PBL 10         | Testes Funcionais Automatizados                | ✅ Entregue |
-| PBL 11         | BDD e automação orientada a comportamento      | ✅ Entregue |
-| PBL 12         | BDD e automação orientada a comportamento      | ✅ Entregue |
+| Atividade      | Descrição                                                                  | Status      |
+| -------------- | -------------------------------------------------------------------------- | ------------|
+| PBL 9          | Qualidade de Processo                                                      | ✅ Entregue |
+| PBL 10         | Modelos de Maturidade                                                      | ✅ Entregue |
+| PBL 11         | Qualidade em Metodologias Ágeis                                            | ✅ Entregue |
+| PBL 12         | Integração Contínua, Qualidade Automatizada, Métricas e Gestão de Defeitos | ✅ Entregue |
 
 
 
